@@ -1,4 +1,4 @@
-module egoll
+module github.com/jinziguan123/egoll
 
 go 1.22
 
