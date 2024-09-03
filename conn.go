@@ -1,8 +1,8 @@
 package egoll
 
 import (
-	"egoll/codec"
 	"errors"
+	"github.com/jinziguan123/egoll/codec"
 	"sync/atomic"
 	"syscall"
 	"time"

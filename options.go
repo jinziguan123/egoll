@@ -1,7 +1,7 @@
 package egoll
 
 import (
-	"egoll/codec"
+	"github.com/jinziguan123/egoll/codec"
 	"runtime"
 	"time"
 )
