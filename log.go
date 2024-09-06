@@ -9,7 +9,7 @@ import (
 
 var log logger = newDefaultLog()
 
-func setLogger(l logger) {
+func SetLogger(l logger) {
 	log = l
 }
 
